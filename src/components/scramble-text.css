@@ -1,0 +1,21 @@
+.text-scramble__content {
+  display: inline-block;
+  position: relative;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+}
+
+.text-scramble__text {
+  display: inline-block;
+  color: white;
+  text-shadow: 0 0 20px rgba(145, 94, 255, 0.3);
+}
+
+.text-scramble__cursor {
+  display: inline-block;
+  height: 0.9em;
+  width: auto;
+  margin-left: 2px;
+  vertical-align: middle;
+} 

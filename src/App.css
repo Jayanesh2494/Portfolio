@@ -1,0 +1,43 @@
+/* Base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Add these styles to your existing CSS */
+/* .desktop-nav {
+  display: flex;
+}
+
+@media (max-width: 768px) {
+  .desktop-nav {
+    display: none;
+  }
+}
+
+.violet-gradient {
+  background: #804dee;
+  background: linear-gradient(-90deg, #804dee 0%, rgba(60, 51, 80, 0) 100%);
+  background: -webkit-linear-gradient(
+    -90deg,
+    #804dee 0%,
+    rgba(60, 51, 80, 0) 100%
+  );
+}
+
+.border-secondary {
+  border-color: #915EFF;
+}
+
+.bg-secondary {
+  background-color: #915EFF;
+}
+
+/* Add any additional styles you need */
+
+ 
