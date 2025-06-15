@@ -1,4 +1,4 @@
-import React from 'react';
+
 import SkillModel from './SkillModel';
 import './skills.css';
 
